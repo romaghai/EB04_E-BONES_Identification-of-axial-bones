@@ -25,7 +25,7 @@ B.Pharm
 
 Dr. A.P.J Abdul Kalam Technical University (AKTU)
 
-<b>Name of Developer | <b> Dr. Roma Ghai  - - - - - -
+<b>Name of Developer | <b> Dr. Roma Ghai 
 :--|:--|
 <b> Institute | <b> KIET School of Pharmacy, KIET Group of Institutions 
 <b> Email id|     <b> roma.ghai@kiet.edu 
