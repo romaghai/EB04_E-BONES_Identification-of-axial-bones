@@ -1,55 +1,52 @@
 ## Introduction (Round 0)
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
-<br>
-
-<b>Discipline | <b>Type Name of Discpline  to which lab belongs
+<b>Discipline | <b>Bachelor of Pharmacy (B.Pharm) 
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
+<b> Lab | <b> Human Anatomy & Physiology-I 
+<b> Experiment|     <b> Identification of axial bones 
 
 <h5> About the Lab (Objective) : </h5>
 
-Type here: berif description of the lab
+The human anatomy and physiology lab is introduced to the B.Pharm students in the first semester as per the curriculum of Pharmacy Council of India. The main objective of this lab is to provide comprehensive knowledge of body structure and function with emphasis on histological study of tissues using slides. The lab also makes the students to comprehend the hematology practicals related to estimation of WBC count, RBC count etc. The overall goal is to understand the concepts taught in the class with the help of practicals.  
 
 <h5> About the Experiment : </h5>
 
-Type here: berif description of this experiment
+The experiment deals with understanding of the bones present in the axial skeleton. The objective is to enable students to identify different bones of the skull, face and bones that forms the vertebral column and to describe the components of thoracic cage.
 
 <h5> Target Audience : </h5>
 
-Type here: the target audience
+Students of B.Pharm 1st year, Ist semester
 
 <h5> Course Alignment : </h5>
 
-Type here: courses aligned
+B.Pharm
 
 <h5> Universities Mapped : </h5>
 
-Type here: universities mapped
+Dr. A.P.J Abdul Kalam Technical University (AKTU)
 
-<b>Name of Developer | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Name of Developer | <b> Dr. Roma Ghai  - - - - - -
 :--|:--|
-<b> Institute | <b> My Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department in which you work
+<b> Institute | <b> KIET School of Pharmacy, KIET Group of Institutions 
+<b> Email id|     <b> roma.ghai@kiet.edu 
+<b> Department | Department of Pharmacology, KIET School Of Pharmacy 
 
 #### Mentor Details
 
-<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Mentored by | <b> Mrs. Rupali Sharma 
 :--|:--|
-<b> Institute | <b> Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department
+<b> Institute | <b> MIET, Meerut 
+<b> Email id|     <b> rupali.sharma@miet.ec.in 
+<b> Department | Department of Pharmaceutical Technology
 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Full name | Faculty | Dept Name | Name of the Insitute, City | abc@example.com
-2 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-3 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-4 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
+1 | Ms. Sneha Chaudhary  | Student | KIET School of Pharmacy | KIET Group of Institutions, Ghaziabad  | csneha141@gmail.com
+2 | Mr. Atul Kashyap | Student | Computer Science | KIET Group of Institutions, Ghaziabad  | atul.1822cs1047@kiet.edu
+3 | Ms. Anusha Nigam | Student | Information technology  | KIET Group of Institutions, Ghaziabad |anushanigam13@gmail.com
+4 | Mr. Divyam Arora | Student | Information technology  | KIET Group of Institutions, Ghaziabad  | divyam.1822it1053@kiet.edu 
 
 
 <br>
