@@ -1,8 +1,5 @@
 ## Pedagogy (Round 1)
 <p align="center">
-
-<br>
-<br>
 <b> Experiment : Identification of axial bones  <a name="top"></a> <br>
 </p>
 
