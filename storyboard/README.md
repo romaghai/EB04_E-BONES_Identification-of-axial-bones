@@ -15,6 +15,17 @@ Then on next screen, a switch” Toggle labelling” appears and the student has
 
 
 #### 2.1 Set the Visual Stage Description:
+<img src="images/image.png"/>
+<img src="images/image1.png"/>
+<img src="images/image2.png"/>
+<img src="images/image3.png"/>
+<img src="images/image4.png"/>
+<img src="images/image5.png"/>
+<img src="images/image6.png"/>
+<img src="images/image7.png"/>
+<img src="images/image8.png"/>
+<img src="images/image9.png"/>
+
 Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
 
 #### 2.2 Set User Objectives & Goals:
@@ -108,7 +119,7 @@ link to flow chart Here : Store in the  /flowchart folder within Round2 folder i
  (guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intri5acies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project file. )
 
 ### 5. Storyboard :
-<img src="Storyboard/storyboard.gif"/>
-Storyboard: <a href="Storyboard/storyboard.gif"> [here]</a>
+<img src="storyboard/storyboard.gif"/>
+Storyboard: <a href="storyboard/storyboard.gif"> [here]</a>
 Link to storybaord (.gif file ) here : 
 (guide: This document should include sketching and description scene wise (duration, action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool) . tutorial on how to use it https://www.youtube.com/watch?v=LAeCEpG0KX4
