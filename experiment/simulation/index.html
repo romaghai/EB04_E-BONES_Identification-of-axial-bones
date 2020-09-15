@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>V-Lab</title>
+<link rel="icon" href="images/1571909953phpVubCwi.jpeg" type="image/gif" sizes="16x16">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/style1.css">
+<link rel="stylesheet" href="css/point.css">
+<link rel="stylesheet" href="css/style.css">
+<script src="js/simulation.js"></script>
+</head>
+<body style="margin:0;">
+
+<div id="loader" class="animate-bottom" style="margin-top: 100px;" >
+    <div class="tittle " style="margin-bottom: 60px;"  >Identification of Axial Bones</div>
+    <div><img src="images/skeleton.svg" height="380px" alt=""></div>
+    
+    
+    <button class="but1" onclick="showPage()">Start Now</button>
+</div>
+
+<div style="display:none;" id="myDiv" class="animate-bottom">
+    
+    <div class="downArrow bounce">
+        <img  width="100px" alt="" src="images/arrow.png" />
+      </div>
+      
+    <div class="tittle1"> Hover on skeleton to <br> <span style="font-size: 20px; font-weight: 900;"> find axial skeleton structures </span> </div> 
+    <div class="subhead " id="subhead" style="display:none ;" >Now click on that button !</div>
+   <div id="myDiv1">
+    <img onmouseover="bone1()" onmouseout="defaulttext()" class="rh" src="images/Right Hand.svg" alt="">
+    <img onmouseover="bone1()" onmouseout="defaulttext()" class="Spacula" src="images/Spacula.svg" alt="">
+    <img onmouseover="gotit()" onmouseout="defaulttext()" class="main" src="images/Main.svg" alt="">
+    <img onmouseover="bone1()" onmouseout="defaulttext()" class="lh" src="images/Left Hand.svg" alt="">
+    <img onmouseover="bone1()" onmouseout="defaulttext()" class="rl" src="images/Right Leg.svg" alt="">
+    <img onmouseover="bone1()" onmouseout="defaulttext()"class="ll" src="images/left Leg.svg" alt="">
+    <img onmouseover="bone1()" onmouseout="defaulttext()"class="pelvic" src="images/Pelvic.svg" alt="">
+   </div>
+    <div class="tittle2"> <span id="det" style="font-size: 38px; font-weight: 900;"> Human skeleton </span> </div>   
+    <div style="position: absolute; margin-left: 80px; margin-top: 40px; font-size: 18px; font-weight: bolder;"> " Click now " button will come only when <br> user has hovered on axial skeleton"</div>
+    <button class="axialbones" onclick="nextPage()" id="axialbones" style="display: none;" >Click Now</button>
+
+</div>
+<div id="newdiv0" style="display: none;"  class="animate-bottom">
+  <img  style="float: left;  position: absolute; padding: 20px; opacity: 0.5;" width="70px" onclick="prevpage0()" src="images/back.svg" alt="">
+<div style="text-align: center; " class="axial" id="axialst">
+  
+  <img width="370px" src="images/skel1.svg" alt="">
+  <div class="tittle " style="font-size: 20px; margin-top: 5px;" >Classification of Skeleton into <br> Axial Structures and Appendicular skeleton</div>
+</div > 
+<button class="axialbones" style="background-color: darkred; margin-top: -100px;" onclick="nextPage0()" id="axialbones"  >Next</button>
+</div>
+
+
+<div id="newdiv" style="display: none;"  class="animate-bottom">
+    
+     
+      <img  style="float: left;  position: absolute; padding: 20px; opacity: 0.5;" width="70px" onclick="prevpage()" src="images/back.svg" alt="">
+         
+      <div>
+      <img style="float: right; margin-left: 1000px; position: absolute;"  src="images/3d_CT_scan_animation.gif" alt="" >
+      <div style="position: absolute; width: 400px; margin-left: 1000px; margin-top: 270px;">
+      <p >SKULL - Cranium(8 bones) & Face(14 Facial bones)<br><span id="dots"><br></span><span id="more">
+         <br> 1. Skull rests on Upper End of Vertebral Column. <br> <br>
+           2. It  protects brain. <br> <br>
+           3. It form structures of face. <br> <br>
+           4. Hyoid Bone is present below skull . It gives attachment to base of tongue. 
+       </span></p>
+
+      <button class="more" onclick="myFunction()" id="myBtn">Click here for more information</button>
+     </div>
+      </div>
+
+       <button class="label"  style="position: absolute;"  onclick="label()" >Toggle Labelling</button>
+       <section style=" margin-top: 70px; margin-left: 50px;">
+         <img id="ax1"  src="images/Axial_skeleton_diagram 1.svg" alt="">
+         <img id="ax2" style="display: none; margin-left: 15px; " src="images/Axial_skeleton_diagram 1-labeled.svg" alt="">
+       </section>
+       <button class="axialbones" style="background-color: darkred;" onclick="nextPage2()" id="axialbones"  >Next</button>
+  </div> 
+
+
+<div id="newdiv1" style="display: none;" class="animate-bottom">
+    <img  style="float: left;  position: absolute; padding: 20px; opacity: 0.5;" width="70px" onclick="prevpage1()" src="images/back.svg" alt="">
+    <div style="text-align: center; margin-top: 40px;" >
+       <img src="images/Human_skull_side_simplified_(bones) 1.svg" alt="">
+       <div style="position: absolute; margin-left: 530px; margin-top: 30px; font-size: 24px; font-weight: bolder;">HOVER ON NAME OF BONE <br> TO SEE EACH BONE & ITS FUNCTION</div>
+       
+       <div class="tooltip">Frontal bones (1)
+        <span class="tooltiptext">Forms bone of forehead & part of orbital cavity</span>
+      </div>
+
+      <div class="tooltip1">Sphenoid bones (1)
+        <span class="tooltiptext">Forms middle portion of the skull or head</span>
+      </div>
+      
+      <div class="tooltip2">Ethmoid bones (1)
+        <span class="tooltiptext">Form front base of the skull, orbital cavity & side walls of nasal cavity</span>
+      </div>
+
+      <div class="tooltip3">Parietal bones (2)
+        <span class="tooltiptextr">Form upper sides and roof of head</span>
+      </div>
+
+      <div class="tooltip4">Temporal bones (2)
+        <span class="tooltiptextr">Form lower sides of head</span>
+      </div>
+
+      <div class="tooltip5">Occipital bones (1)
+        <span class="tooltiptextr">Forms back of head. A hole in the bone allows spinal cord to pass through it.It also forms joint with first bone of spinal cord.
+</span>
+      </div>
+
+      
+    </div>
+    <button class="axialbones" style="background-color: darkred;  margin-left: 120px; float: right;;" onclick="nextPage3()" id="axialbones"  >Next</button>
+</div>
+
+<div id="newdiv2" style="display: none;" class="animate-bottom">
+    <img  style="float: left;  position: absolute; padding: 20px; opacity: 0.5;" width="70px" onclick="prevpage2()" src="images/back.svg" alt="">
+
+    <div style="text-align: center; margin-top: 60px;">
+        <img width="600px" src="images/Facial_skeleton_-_en 1.svg" alt="">
+        <div style="position: absolute; margin-left: 540px; margin-top: 40px; font-size: 24px; font-weight: bolder;">HOVER ON NAME OF BONE <br> TO SEE EACH BONE & ITS FUNCTION</div>
+       
+        <div class="tooltip6">Nasal bones (2)
+         <span class="tooltiptext">Form bridge of the nose</span>
+       </div>
+ 
+       <div class="tooltip7">Lacrimal bones (2)
+         <span class="tooltiptext">Form middle wall of orbital cavity </span>
+       </div>
+       
+       <div class="tooltip8">Inferior nasal conchae  (2)
+         <span class="tooltiptext">Form side walls of nasal cavity</span>
+       </div>
+ 
+       <div class="tooltip9">Maxilla (2)
+         <span class="tooltiptext">Forms framework of upper jaw, roof of the mouth</span>
+       </div>
+ 
+       <div class="tooltip10">Mandible (1)
+         <span class="tooltiptext">Forms framework of lower jaw </span>
+       </div>
+ 
+       <div class="tooltip11">Palatine bones (2)
+         <span class="tooltiptextr"> L-shaped bones forming part of hard palate</span>
+       </div>
+
+       <div class="tooltip12">Zygomatic bones (2)
+        <span class="tooltiptextr">Forms framework of  cheeks</span>
+      </div>
+      
+      <div class="tooltip13"> Vomer (1)
+        <span class="tooltiptextr"> Forms the nasal septum </span>
+      </div>
+      
+    </div>
+    <button class="axialbones" style="background-color: darkred;  margin-left: 120px; float: right;" onclick="nextPage4()" id="axialbones"  >Next</button>
+</div>
+
+<div id="quizdiv1" style="display: none;" class="animate-bottom" >
+  <img  style="float: left;  position: absolute; padding: 20px; opacity: 0.5;" width="70px" onclick="prevpage3()" src="images/back.svg" alt="">
+    <div style="text-align: center; margin-top: 40px;" >
+       TEST YOUR KNOWLEDGE
+         <form>
+            <label><h1>1. The cranium comprised of:</h1></label>
+            <input id="bttn1" class="btn" type="button" onclick="Wrong(1)" value="A. Zygomatic bones"><br>
+            <input id="bttn2" class="btn" type="button" onclick="Wrong(2)"value="B. Parietal bones"><br>
+            <input id="bttn3" class="btn" type="button" onclick="Wrong(3)" value="C. Nasal bones"><br>
+            <input id="bttn4" class="btn" type="button" onclick="Wrong(4)" value="D. Palatine bones"><br>
+            
+            <label><h1>2. Which bone forms posterior part of head</h1></label>
+            <input id="bttn5" class="btn" type="button" onclick="Wrong(5)" value="A. Frontal bone"><br>
+            
+            <input id="bttn7" class="btn" type="button" onclick="Wrong(7)" value="B. Temporal bones"><br>
+            <input id="bttn6" class="btn" type="button" onclick="Wrong(6)"value="C. Occipital bone"><br>
+            <input id="bttn8" class="btn" type="button" onclick="Wrong(8)" value="D. Parietal bone"><br>
+        </form>
+        <br>
+    </div>
+    <button class="axialbones" style="background-color: darkred;  margin-left: 120px; margin-top:-140px;  margin-bottom: 60px; float: right;" onclick="nextPage5()" id="axialbones"  >Next</button>
+</div>
+
+<div id="quizdiv2" style="display: none;" class="animate-bottom" >
+  <img  style="float: left;  position: absolute; padding: 20px; opacity: 0.5;" width="70px" onclick="prevpage4()" src="images/back.svg" alt="">
+    <div style="text-align: center; margin-top: 40px;" >
+        <img  width="250px"   src="images/skel.jpg">
+        <h2 >3. Identify the part shown in figure.</h2>
+        <form>
+            <input id="bttn9" class="btn" type="button" onclick="Wrong(9)" value="A.Thoracic Cage"><br>
+            <input id="bttn10" class="btn" type="button" onclick="Wrong(10)"value="B. Pelvic Girdle"><br>
+            <input id="bttn11" class="btn" type="button" onclick="Wrong(11)" value="C. Skull"><br>
+            <input id="bttn12" class="btn" type="button" onclick="Wrong(12)" value="D. Vertebral Column"><br>
+        </form>
+        <br>
+        
+    </div>
+    <button class="axialbones" style="background-color: darkred;  margin-left: 120px; margin-bottom: 60px;  margin-top:-100px; float: right;" onclick="nextPage6()" id="axialbones"  >Next</button>
+</div>
+
+<div id="newdiv3" style="display: none;" class="animate-bottom">
+  <img  style="float: left;  position: absolute; padding: 20px; opacity: 0.5;" width="70px" onclick="prevpage5()" src="images/back.svg" alt="">
+    <div style="text-align: center; margin-top: 40px;" >
+     <img style="margin-top: 70px; margin-left: -700px;" width="300px" src="images/Spinal_column_curvature-en.svg" alt="">
+     <div style="margin-top: 30px; position: absolute; margin-left: 260px;" > Curves in  Vertebral Column </div>
+     <img style=" margin-left: 300px; position: absolute; margin-top: 40px;" src="images/vertebral.svg" alt="">
+     <div class="tooltip14">7 cervical <br> Vertebrae
+        <span class="tooltiptext">C1-C7</span>
+      </div>
+
+      <div class="tooltip15">12 Thoracic <br>  Vertebrae
+        <span class="tooltiptext">T1-T12</span>
+      </div>
+
+      <div class="tooltip16">5 Lumbar <br>  Vertebrae
+        <span class="tooltiptext"> L1-L5</span>
+      </div>
+
+      <div class="tooltip17">Sacrum <br> 5 Fused bones
+       <span class="tooltiptext">Sacrum : 5 Fused Vertebrae
+        <br>Coccyx : 4 Fused Vertebrae</span>
+     </div>
+     
+     <div class="tooltip18"> Coccyx <br> 4 Fused bones
+       <span class="tooltiptext"> Intervertebral discs </span>
+     </div>
+       
+     <div style="position: absolute; margin-left: 1150px; margin-top: -280px; font-size: 18px; font-weight: bolder;">HOVER ON BONE NAME TO <br>  SEE EACH BONE & ITS FUNCTION <br> <span style="font-size: 30px; font-weight: 900;"> VERTEBRAL COLUMN</span></div>
+
+  </div>
+    <button class="axialbones" style="background-color: darkred;  margin-left: 120px; float: right;" onclick="nextPage7()" id="axialbones"  >Next</button>
+</div>
+
+<div id="newdiv4" style="display: none;" class="animate-bottom">
+  <img  style="float: left;  position: absolute; padding: 20px; opacity: 0.5;" width="70px" onclick="prevpage6()" src="images/back.svg" alt="">
+
+        
+        <div style= " margin-left:200px  ; margin-top: 60px;" >
+          <img style="float: right; margin-left: 900px; position: absolute;" width="330px"  src="images/Spinal.gif" alt="" >
+            <h1 >DETAILS ON VERTEBRAL COLUMN</h1>
+       <p>
+         <br> 1. Cervical vertebrae: They are seven in number & present in neck and forms cervical curve<br> 
+            Ist cervical vertebra is called Atlas that forms joint with occipital bone.<br> <br>
+           Second cervical vertebra is Axis. It forms joint with atlas & helps turn head from side to side (saying No).<br> <br>
+           2. Thoracic vertebrae : articulates with ribs and forms thoracic curve.<br> <br>
+           3. Lumbar vertebrae: forms lower back and forms lumbar surve.
+         <br><span id="dots2"><br></span><span id="more2">
+           <br><b>Functions of vertebral column</b>
+           <br><br>1. Protects Spinal cord. <br> <br>
+           2. Supports skull. <br> <br>
+           3. Provides structural support and balance to the body.<br> <br>
+           4. Maintains posture, provides 2/5 th height of the human body.<br><br>
+                5. Intervertebral discs have shock absorbing function and give flexibility to vertebral column.
+                
+                </span></p>
+            
+
+     <button class="more" onclick="myFunction2()" style="margin-top: 0px; position: absolute;" id="myBtn2">Click to see functions of vertebral column</button>
+     
+    </div>
+    <button class="axialbones" style="background-color: darkred;  margin-left: 120px; float: right; " onclick="nextPage8()" id="axialbones"  >Next</button>
+</div>
+
+<div id="quizdiv3" style="display: none;" class="animate-bottom">
+  <img  style="float: left;  position: absolute; padding: 20px; opacity: 0.5;" width="70px" onclick="prevpage7()" src="images/back.svg" alt="">
+    <div style="text-align: center; margin-top: 60px;" >
+       TEST YOUR KNOWLEDGE
+        <form>
+            <label><h1>4. _____________Makes 2/5th height of human body.</h1></label>
+            <input id="bttn13" class="btn" type="button" onclick="Wrong(13)" value="A.Thoracic Cage"><br>
+            
+            <input id="bttn15" class="btn" type="button" onclick="Wrong(15)" value="B. Skull"><br>
+            <input id="bttn16" class="btn" type="button" onclick="Wrong(16)" value="C. Vertebral Column"><br>
+            <input id="bttn14" class="btn" type="button" onclick="Wrong(14)"value="D. None of the above"><br>
+    
+        </form>
+    </div>
+    <button class="axialbones" style="background-color: darkred;  margin-left: 120px; float: right;" onclick="nextPage9()" id="axialbones"  >Next</button>
+</div>
+
+<div id="newdiv5" style="display: none;" class="animate-bottom">
+  <img  style="float: left;  position: absolute; padding: 20px; opacity: 0.5;" width="70px" onclick="prevpage8()" src="images/back.svg" alt="">
+    <div style="text-align: center; margin-top: 40px;" >
+      <img style="float: right; margin-left: 700px; position: absolute;" width="200px"  src="images/Ribs_animation.gif" alt="" >
+     <img style="margin-top: 70px; " width="470px" src="images/thora.svg" alt="">
+     <div style="position: absolute; margin-left: 530px; margin-top: 40px; font-size: 24px; font-weight: bolder;">HOVER ON BONE NAME TO <br>  SEE EACH BONE & ITS FUNCTION <br> <span style="font-size: 30px; font-weight: 900;"> THORACIC CAGE</span> </div>
+     
+     <div class="tooltip19">STERNUM
+        <span class="tooltiptextr" style="width: 300px;" > <img width="300px" src="images/cage.png" alt=""> </span>
+      </div>
+
+      <div class="tooltip20">Costal Cartilage
+        <span class="tooltiptext">T1-T12</span>
+      </div>
+
+      <div class="tooltip21"> RIBS (12 pairs)
+        <span class="tooltiptextr" style="width: 300px; text-align: left;" > <ol>
+          <li> 1st rib does not move during respiration</li>
+          <li> Spaces between ribs contain intercostal muscles that help in respiration </li>
+          <li> First 7 pairs are attached to sternum by costal cartilage (TRUE RIBS) </li>
+          <li> 8th , 9th and 10th are not directly attached to sternum (FALSE RIBS) </li>
+          <li> 11th and 12th are the floating ribs (no anterior attachment) </li>
+        </ol> 
+           </span>
+      </div>
+     </div>
+    <button class="axialbones" style="background-color: darkred;  margin-left: 120px; float: right;" onclick="nextPage10()" id="axialbones"  >Next</button>
+</div>
+
+<div id="quizdiv4" style="display: none;" class="animate-bottom">
+  <img  style="float: left;  position: absolute; padding: 20px; opacity: 0.5;" width="70px" onclick="prevpage9()" src="images/back.svg" alt="">
+    <div style="text-align: center; margin-top: 60px;" >
+       TEST YOUR KNOWLEDGE
+        <form>
+            <label><h1>5. The superior part in sternum is</h1></label>
+            <input id="bttn17" class="btn" type="button" onclick="Wrong(17)" value="A. Manubrium"><br>
+            <input id="bttn18" class="btn" type="button" onclick="Wrong(18)"value="B. Xiphoid process"><br>
+            <input id="bttn19" class="btn" type="button" onclick="Wrong(19)" value="C.Body"><br>
+            <input id="bttn20" class="btn" type="button" onclick="Wrong(20)" value="D. None of the above"><br>
+    
+        </form>
+        
+    </div>
+    <button class="axialbones" style="background-color: darkred;  margin-left: 120px; float: right; padding: 13px 53px;" id="axialbones"  >END</button>
+   <a href="index.html"> <button class="axialbones"  style="background-color: darkred;  float: right; position: absolute; margin-left: 1270px; margin-top: 90px;" id="axialbones"  >RESTART</button></a>
+</div>
+
+
+</body>
+</html>
