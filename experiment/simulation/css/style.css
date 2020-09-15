@@ -1,0 +1,106 @@
+
+
+.rh
+{  
+    margin-left: 180px;
+    height: 240px;
+    margin-top: 167.43px;
+    transition: transform .2s;
+}
+.rh:hover
+{
+    opacity: 0.9;
+    transform: scale(1.1);
+}
+
+.main
+{   
+    height: 370px;
+    position: absolute;
+    margin-top: 30.32px;
+    transition: transform .2s;
+}
+
+.main:hover
+{
+    opacity: 0.9;
+    transform: scale(1.1);
+}
+
+.lh
+{  
+    height: 240px;
+    position: absolute;
+    margin-left: 143.27px;
+    margin-top: 166.4px;
+    transition: transform .2s;
+}
+
+.lh:hover
+{
+    opacity: 0.9;
+    transform: scale(1.1);
+}
+
+.Spacula
+{   
+    height: 90px;
+    position: absolute;
+    margin-left: -22px;
+    margin-top: 138.14px;
+    transition: transform .2s;
+}
+
+.Spacula:hover
+{
+    opacity: 0.5;
+    transform: scale(1.1);
+}
+
+.pelvic
+{   
+    height: 90px;
+    position: absolute;
+    margin-top: 322.63px;
+    transition: transform .2s;
+}
+
+.pelvic:hover
+{
+    opacity: 0.9;
+    transform: scale(1.1);
+}
+
+.rl
+{   
+    height: 340px;
+    position: absolute;
+    margin-top: 376.06px;
+    transition: transform .2s;
+}
+
+.rl:hover
+{
+    opacity: 0.9;
+    transform: scale(1.1);
+}
+
+.ll
+{    
+    height: 340px;
+    position: absolute;
+margin-left: 70.83px;
+margin-top: 378.76px;
+transition: transform .2s;
+}
+
+.ll:hover
+{
+    opacity: 0.9;
+    transform: scale(1.1);
+}
+
+.svgskel
+{
+    margin-top: 40px;
+}
