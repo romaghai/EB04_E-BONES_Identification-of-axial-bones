@@ -90,26 +90,46 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "Which bone forms the forehead part of cranial floor?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: " Frontal bone",                  ///// Write the option 1 inside double quotes
+        b: "Temporal bones",                  ///// Write the option 2 inside double quotes
+        c: "Occipital bone",                  ///// Write the option 3 inside double quotes
+        d: "Sphenoid bone "                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "Which bone is located in the anterior neck between the mandible and larynx ?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Palatine bones",                  ///// Write the option 1 inside double quotes
+        b: "Nasal bones",                  ///// Write the option 2 inside double quotes
+        c: " Hyoid bone",                  ///// Write the option 3 inside double quotes
+        d: "Lacrimal bones"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
+    },
+    {
+      question: "The cranium comprised of:",
+      answers: {
+        a: "Zygomatic bones",
+        b: "Parietal bones",
+        c: "Nasal bones",
+        d: "Palatine bones"
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: " ______ makes up about 2/5th of total height of human being and protects our spinal cord.",
+      answers: {
+        a: "Thoracic cage",
+        b: "Skull",
+        c: "Vertebral column",
+        d: "None of the above"
+      },
+      correctAnswer: "c"
+    },        ///// To add more questions, copy the section below 
     									                  ///// this line
 
 
