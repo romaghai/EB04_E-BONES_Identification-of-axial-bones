@@ -10,7 +10,7 @@
 
 
 <a name="LO"></a>
-#### 1. Focus Area : Reinforcement of  theoretical concepts.
+#### 1. Focus Area : Reinforcement of theoretical concepts.
 Students have already gained knowledge regarding axial skeleton in the theoretical classes. So, this experiment is designed in order to verify and recall their concepts learnt in their classes.
 
 #### 2. Learning Objectives and Cognitive Level
@@ -35,10 +35,11 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 ###### Name of Instructional Strategy  :    <u> Expository 
 ###### Assessment Method: Formative assessment 
 
-<u> <b>Description: </b> Students have learnt theoretical concepts of axial skeleton in their classes. So, this virtual lab will be helpful in recalling as well as verifying the concepts learnt earlier in the class. It will be a protocol based virtual lab simulation. </u>
+<u> <b>Description: </b>  Students have learnt theoretical concepts of axial skeleton in their classes. So, this virtual lab will be helpful in recalling as well as verifying the concepts learnt earlier in the class. It will be a protocol based virtual lab simulation. 
+ </u>
 <br>
 
-<u> <b>Simulator: </b> The simulator shall visually display the image of complete skeleton first followed by display of structure of skull, division of skull portion into cranial bones and facial bones with appropriate labelling of the bones. Then the simulator shall show the picture of vertebral column, followed by labelling of the bones comprising vertebral column and function shall be displayed in the form of text sentences. Lastly the simulator shall animate thoracic cage followed by labelling of the components of thoracic cage.  </u>
+<u> <b>Simulator: </b> The simulator shall visually display the image of complete skeleton first followed by display of structure of skull, division of skull portion into cranial bones and facial bones with appropriate labelling of the bones. Then the simulator shall show the picture of vertebral column, followed by labelling of the bones comprising vertebral column and function shall be displayed in the form of text sentences. Lastly the simulator shall animate thoracic cage followed by labelling of the components of thoracic cage.      </u>
 <br> 
 
 <br/>
@@ -78,13 +79,15 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| The student will be able to select the structure of axial skeleton in skeleton displayed on the simulator by pressing “START NOW” | Display the whole skeleton | The purpose is to provide the knowledge of different parts of complete skeleton so that they will be able to differentiate in different parts.
-2.| Student has to press next button and will able to differentiate between axial and appendicular skeleton | Display axial and appendicular structures in the same skeleton | The purpose is to enable the student to differentiate between axial and appendicular skeleton
-3.| Student has to press TOGGLE button and then will be able to identify the different parts of axial skeleton viz the bones of skull (cranial and facial bones), vertebral column, Hyoid bone and thoracic cage as and when it is shown in the simulator | Display the image of skull (cranium and face bones), vertebral column and thoracic cage one by one with labels | The purpose is to learn more about the different parts of axial skeleton
-4.| Student has to press next button and will be able to see cranial bones and has to click on the bone name to know more about it | Display the image of cranial bones  | The purpose is to learn the features of 8 cranial bones
-5.| Student has to press next button and will be able to see facial bones and has to click on the bone name to know more about it | Display the image of facial bones  | The purpose is to learn the features of 14 facial bones
-6.| Student has to press next button and will be able to see assessment questions | Questions will be displayed | The purpose is to assessing the learning with respect to cranial and facial bones
-7.| Student has to press next button and will be able to see the bones (vertebrae) of vertebral column | Display the image of  bones of vertebral column  | The purpose is to understand the position of bones of vertebral column along with its functions.
-8.|Student has to press next button will be able to see assessment questions. | Questions will be displayed that student has to attempt  | The purpose is to assessing the learning of the student with respect to vertebral column
-9.| Student has to press next button will be able to see thoracic cage and its parts and other details. | Display the image of thoracic cage  | The purpose is to learn the features of thoracic cage
-10.| Student has to press next button will be able to see assessment questions. | Questions will be displayed that student has to attempt  | The purpose is to assessing the learning of the student with respect to thoracic cage
+1.| The student will be able to see the structure of complete skeleton displayed on the simulator by pressing “START NOW” | Display the whole skeleton | The purpose is to show the complete skeleton.
+2.| Student has to press “Hover on skeleton” to see the axial structures. | Simulator shows “wrong” if we hover on other parts besides axial structures. | Purpose is to differentiate between axial and appendicular structures.
+3.| Student has to press “next” button and will able to see the difference between axial and appendicular skeleton | Display axial and appendicular structures in the same skeleton |The purpose is to enable the student to clearly see the difference between axial and appendicular skeleton.
+4.| Student has to press “TOGGLE” button and then will be able to identify the different parts of axial skeleton viz the bones of skull (cranial and facial bones), vertebral column, Hyoid bone and thoracic cage. | Display the image of skull (cranium and face bones), vertebral column and thoracic cage one by one with labels  | The purpose is to learn more about the different parts of axial skeleton
+5.| Student has to press “CLICK HERE FOR MORE INFORMATION” to get more details on skull. | Simulator shows more information on skull.  | The purpose is to learn more information on skull.
+6.| Student has to press “next” button and will be able to see cranial bones and has to click/hover on the bone name to know more about it. | Display the image of cranial bones | The purpose is to learn about different types of cranial bones
+7.| Student has to press “next” button and will be able to see facial bones and has to click on the bone name to know more about it | Display the image of facial bones  | The purpose is to learn about different types of facial bones.
+8.|Student has to press “next” button and will be able to see assessment questions on skull. | Questions will be displayed that student has to attempt. | The purpose is to assess the knowledge.
+9.| Student has to press “next” button and will be able to see the bones (vertebrae) of vertebral column | Display the image of bones of vertebral column  | The purpose is to learn about different vertebraes present in vertebral column 
+10.| Student has to press “next” button & will be able to see assessment question on vertebral column. | Question will be displayed that student has to attempt. | The purpose is to assess the knowledge.
+11.| Student has to press “next” button will be able to see thoracic cage and its parts and other details. | Display the image of thoracic cage as well as its details on clicking its parts | The purpose is to learn about different parts of thoracic cage.
+12.| Student has to press “next” button will be able to see assessment questions related to thoracic cage.| Question will be displayed that student has to attempt |The purpose is to assess the knowledge.
