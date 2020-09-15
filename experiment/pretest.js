@@ -90,27 +90,46 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "How many bones are present in an adult human skeleton?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "204",                  ///// Write the option 1 inside double quotes
+        b: "205",                  ///// Write the option 2 inside double quotes
+        c: "206",                  ///// Write the option 3 inside double quotes
+        d: "207"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: "What are the functions of bones and skeletal system?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Support",                  ///// Write the option 1 inside double quotes
+        b: "Movement",                  ///// Write the option 2 inside double quotes
+        c: "Protection",                  ///// Write the option 3 inside double quotes
+        d: "All of the above"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
-    									                  ///// this line
+     {
+      question: "The process by which bones formed?",
+      answers: {
+        a: "Osteons",
+        b: "Ossification",
+        c: "Osteoclasts",
+        d: "Epiphyses"
+      },
+      correctAnswer: "b"
+    },			
+    {
+      question: "How many bones are present in axial skeleton and appendicular skeleton?",
+      answers: {
+        a: "85,121",
+        b: "83, 123",
+        c: "74,132",
+        d: "80,126"
+      },
+      correctAnswer: "d"
+    },                     ///// this line
 
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
