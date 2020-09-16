@@ -2,22 +2,21 @@
 ### Aim
 Identification of axial skeleton
 ### Theory
-<b>2.1 Requirements: </b>Simulator containing the Images of bones
-<br><br><b>2.2 Description:</b><br>
-The human skeleton consists of 206 bones. These bones are grouped into two categories axial skeleton and appendicular skeleton. The axial skeleton consists of 80 bones and appendicular skeleton consists of 126 bones.
-Axial skeleton: The bones of the axial skeleton contribute to homeostasis by protecting many of the body’s organs such as the brain, spinal cord, heart, and, lungs. They are also important in support and calcium storage and release.
-<br><br><b>Skull: </b>
-∙ The skull (cranium), with its 22 bones, rests on the superior end of the vertebral column (backbone). 
-∙ The bones of the skull are grouped into two categories: cranial bones and facial bones. 
-∙ The cranial bones form the cranial cavity, which encloses and protects the brain. 
-<br><br><b>The eight cranial bones are as follows: </b>
+2.1 Requirements: Simulator containing the Images of bones
+2.2 Description:
+The human skeleton is composed of 206 bones. These bones are grouped into two categories axial skeleton and appendicular skeleton. The axial skeleton consists of 80 bones and appendicular skeleton consists of 126 bones.
+Axial skeleton: The bones of the axial skeleton contribute to homeostasis by protecting many of the body’s organs such as the brain, spinal cord, heart, and, lungs. They help in support and movement.
+Skull: 
+The skull consists of 22 bones that is present on the upper part of vertebral column. The skull is divided into two parts: bones of cranium and bones of face
+• The cranial bones form the cranial cavity, which encloses and protects the brain. 
+The eight cranial bones are as follows: 
 1. Frontal bone =1 
 2. Parietal bones =2 
 3. Temporal bones=2 
 4. Occipital bone=1 
 5. Sphenoid bone =1 
 6. Ethmoid bone=1
-<br><br><b>Fourteen facial bones are as follows: </b>
+Fourteen facial bones are as follows: 
 1. Nasal bones=2 
 2. Maxillae (or maxillas)=2 
 3. Zygomatic bones=2 
@@ -26,92 +25,82 @@ Axial skeleton: The bones of the axial skeleton contribute to homeostasis by pro
 6. Palatine bones=2 
 7. Inferior nasal conchae=2
 8. Vomer=1
-<br><br><b>CRANIAL BONES </b>
-<br><br><b>Frontal Bone </b> 
-∙ The frontal bone forms the forehead (the anterior part of the cranium), the roofs of the orbits (eye sockets), and most of the anterior part of the cranial floor. 
-<br><br><b>Parietal Bones </b>
-∙ The two parietal bones form the greater portion of the sides and roof of the cranial cavity . 
-<br><br><b>Temporal Bones </b>
-∙ The paired temporal bones form the inferior lateral aspects of the cranium and part of the cranial floor.
-<br><br><b>Occipital Bone</b> 
-∙ The occipital bone (back of head) forms the posterior part and most of the base of the cranium. The foramen magnum (large hole) is in the inferior part of the bone. 
-<br><br><b>Sphenoid Bone </b>
-∙ The sphenoid bone (wedge-shaped) lies at the middle part of the base of the skull . 
-∙ This bone is the cranial floor because it articulates with all the other cranial bones, holding them together. 
-<br><br><b>Ethmoid Bone </b>
-∙ The ethmoid bone (like a sieve) is spongelike in appearance and is located on the midline in the anterior part of the cranial floor medial to the orbits. It is anterior to the sphenoid and posterior to the nasal bones. 
-∙ The ethmoid bone forms: 
+CRANIAL BONES 
+Frontal Bone 
+Forehead is formed by the frontal bone. Similarly, the frontal bone forms the roofs of orbital sockets. 
+Parietal Bones 
+It mainly forms sides and roof of skull.  
+Temporal Bones 
+• The paired temporal bones form the inferior lateral aspects of the cranium and part of the cranial floor.
+Occipital Bone 
+This bone forms back part of human head and it has a hole called foramen magnum. Through this hole, spinal cord passes through it.
+Sphenoid Bone 
+It is present in the central portion of the skull that articulates with all the other 7 cranial bones and hold the bones together.
+Ethmoid Bone 
+• The ethmoid bone (like a sieve) is sponge like in appearance and is located on the midline in the anterior part of the cranial floor medial to the orbits. It lies in front of the sphenoid bone and, it lies at the back of the nasal bone.
+• The ethmoid bone forms: 
 1. Part of the anterior portion of the cranial floor; 
 2. The medial wall of the orbits. 
 3. The superior portion of the nasal septum, a partition that divides the nasal cavity into right and left sides. 
-4. Most of the superior sidewalls of the nasal cavity. The ethmoid bone is a major superior supporting structure of the nasal cavity. 
-<br><br><b>FACIAL BONES </b>
-The 14 facial bones include: ⎫ 
-2 nasal bones, ⎫ 
-2 maxillae (or maxillas), ⎫ 
-2 zygomatic bones, ⎫ 
-1 mandible, ⎫ 
-2 lacrimal bones, ⎫ 
-2 palatine bones, ⎫ 
-2 inferior nasal conchae, ⎫ 
-1 vomer. 
-<br><br><b>Nasal Bones </b>
+FACIAL BONES 
+The 14 facial bones include: 2 nasal bones, 2 maxillae (or maxillas), 2 zygomatic bones, 1 mandible, 
+2 lacrimal bones, 2 palatine bones, 2 inferior nasal conchae, 1 vomer. 
+Nasal Bones 
 The paired nasal bones meet at the midline and form the bridge of the nose. 
-<br><br><b>Zygomatic bones </b>
+Zygomatic bones 
 The 2 zygomatic bones commonly called cheekbones form the prominences of the cheeks and part of the lateral wall and floor of each orbit. 
-<br><br><b>Lacrimal Bones </b>
+Lacrimal Bones 
 The 2 lacrimal bones resemble a fingernail in size and shape. These bones are the smallest bones of the face, they are posterior and lateral to the nasal bones and form a part of the medial wall of each orbit. 
-<br><br><b>Palatine Bones</b> 
+Palatine Bones 
 The 2 (L-shaped) palatine bones form the posterior portion of the hard palate, part of the floor and lateral wall of the nasal cavity, and a small portion of the floors of the orbits. 
-<br><br><b>Inferior Nasal Conchae </b>
-The 2 inferior nasal conchae form a part of the inferior lateral wall of the nasal cavity and project into the nasal cavity. All three pairs of nasal conchae (superior, middle, and inferior) increase the surface area of the nasal cavity and help swirl and filter air before it passes into the lungs. 
-<br><br><b>Vomer </b>
-The vomer is a triangular bone on the floor of the nasal cavity that articulates superiorly with the perpendicular plate of the ethmoid bone and inferiorly with both the maxillae and palatine bones along the midline. It forms the inferior portion of the nasal septum. 
-<br><br><b>Mandible </b>
-The mandible or lower jawbone, is the largest, strongest facial bone. It is the only movable skull bone (other than the auditory ossicles). 
-<br><br><b>Hyoid Bone </b>
-∙ The single hyoid bone (U-shaped) is a unique component of the axial skeleton because it does not articulate with any other bone. It is suspended from the styloid processes of the temporal bones by ligaments and muscles. 
-∙ It is located in the anterior neck between the mandible and larynx. 
-∙ The hyoid bone supports the tongue, providing attachment sites for some tongue muscles and for muscles of the neck and pharynx. 
-<br><br><b>VERTEBRAL COLUMN</b>
-∙ The vertebral column, also called the spine, backbone, or spinal column, makes up about two-fifths of your total height and is composed of a series of bones called vertebrae. 
-∙ At about 71 cm (28 in.) in an average adult male and about 61 cm (24 in.) in an average adult female. 
-∙ The total number of vertebrae during early development is 33. As a child grows, several vertebrae in the sacral and coccygeal regions fuse. 
-∙ As a result, the adult vertebral column typically contains 26 vertebrae. 
-∙ These are distributed as follows: ⎫ 
-7 cervical vertebrae- (cervic- _ neck) are in the neck region. ⎫ 
-12 thoracic vertebrae- (thorax _ chest) are posterior to the thoracic cavity. ⎫ 
-5 lumbar vertebrae -support the lower back. ⎫ 
-1 sacrum - consists of five fused sacral vertebrae. ⎫ 
+Inferior Nasal Conchae 
+The 2 inferior nasal conchae at both the sides form a part of the inferior lateral wall of the nasal cavity and project into the nasal cavity. They help in enhancing surface area and enable to filtrate air in the nasal cavity.
+Vomer
+Vomer bone’s shape is like a triangle that makes joint with ethmoid bone at its upper side and forms joint with maxilla and palatine bones below. It forms the inferior portion of the nasal septum. 
+Mandible 
+The mandible or lower jawbone, is the largest, strongest facial bone. Unlike other facial bones, it is the only bone that can do the movement. 
+Hyoid Bone 
+• This bone has a shape of U and is present below the skull. The special feature of the bone is that it doesn’t form any joint with any other bone of the skull. The hyoid bone is attached to the temporal bone processes with the help of some muscles as well as ligaments.
+• It is located in the anterior neck between the mandible and larynx. 
+• The tongue of human body is supported by it. Furthermore, it also gives attachment to some muscles of the tongue, neck as well as pharynx.
+ VERTEBRAL COLUMN
+• The vertebral column, also called the spine, backbone, or spinal column, makes up about two-fifths of your total height and is composed of a series of bones called vertebrae. 
+• The height of Vertebral column is normally found to be higher in males as compared to females 
+• In an infant/small child, the vertebral number is found to be 33. However, during development of the child, the regions each of sacrum and coccyx gets fused. Due to this, the total vertebrae reduce to number of 26.
+• These are distributed as follows: 7 cervical vertebrae- (cervic- neck) are in the neck region.  
+12 thoracic vertebrae- (thorax _ chest) are posterior to the thoracic cavity. 
+5 lumbar vertebrae -support the lower back. 
+1 sacrum - consists of five fused sacral vertebrae.  
 1 coccyx - usually consists of four fused coccygeal vertebrae. 
 Note: The cervical, thoracic, and lumbar vertebrae are movable. 
 The sacrum and coccyx are not movable.
-<br><br><b>Thorax</b> 
-∙ The term thorax refers to the entire chest. 
-∙ The skeletal part of the thorax, the thoracic cage, is a bony enclosure formed by the sternum, ribs and their costal cartilages, and the bodies of the thoracic vertebrae.
-<br><br><b>Sternum </b>
-∙ The sternum, or breastbone, is a flat, narrow bone located in the center of the anterior thoracic wall that measures about 15 cm (6 in.) in length and consists of three parts. 
-∙ The superior part is the manubrium, the middle and largest part is the body; and the inferior, smallest part is the xiphoid process. 
-<br><br><b>Ribs </b>
-∙ Twelve pairs of ribs, numbered 1–12 from superior to inferior, give structural support to the sides of the thoracic cavity. 
-∙ The ribs that have costal cartilages and attach directly to the sternum are called true ribs. 
-∙ The remaining five pairs of ribs are termed false ribs because their costal cartilages either attach indirectly to the sternum or do not attach to the sternum at all. 
-∙ The eleventh and twelfth pairs of ribs are false ribs designated as floating (vertebral) ribs because the costal cartilage at their anterior ends does not attach to the sternum at all. These ribs attach only posteriorly to the thoracic vertebrae.
+Thorax 
+The chest of human body is called as thorax region and skeletal part is known as thoracic cage.
+•It is formed by bones viz sternum, ribs and their costal cartilages as well as 12 thoracic vertebrae.
+Sternum 
+Sternum commonly known as breastbone lies in the middle portion of thoracic wall and is comprised of 3 parts.
+The upper portion is known as manubrium followed by the largest portion called body. The inferior portion of sternum is very small in diameter and it is called xiphoid process.
+Ribs 
+The human body has 12 pairs of ribs that provides support to lateral portions of thoracic cavity. 
+• Ribs can be classified into
+(a) True ribs (7 pairs): These are attached directly to the breastbone/sternum via their costal cartilage.
+(b) false ribs: (5 pairs). The next 3 pairs of ribs are attached indirectly to sternum via costal cartilage.
+Floating ribs are the last 2 pairs as their costal cartilage is not attached to the sternum.
 
 ### Procedure
 1. Press the “Start Now” button to start the experiment.
-2. Then press “Hover on” button to see structures of skeleton.
+2. Then press “Hover on” button to see the structures of skeleton.
 3. “Click Now” button does not appear till the user does not hover on axial skeleton. 
-4. After clicking “Click Now” button, a complete  skeleton arises showing its classification into axial skeleton and appendicular skeleton.
+4. After clicking “Click Now” button, a complete skeleton arises showing its classification into axial skeleton and appendicular skeleton.
 5. Switch on “Toggle labelling” to show first the structures of axial skeleton.
 6. Press “Next” button to see the cranial bones. 
-7. Hover on each cranial bone to see its details.
+7. Hover on name of each cranial bone to see its details.
 8. Click “Next” button to see the facial bones
-9.  Hover on each facial bone to see its details.
+9.  Hover on name of each facial bone to see its details.
 10.  Then Press “Next” button to see the assessment question.
 11. Student has to click the right option out of four options given on the screen.
 12.. If student attempted the correct option, green colour will be displayed. If student attempted the wrong option, red colour will be displayed.
-13. Then click “Next” button. Likewise more questions will be displayed
+13. Then click “Next” button. Likewise, more questions will be displayed
 14. Click the “Next” button to see different vertebraes of vertebral column.
 15. Click “Next” button to see functions of vertebral column.
 16. Click “Next” to see the assessment question related to vertebral column.
@@ -119,8 +108,9 @@ The sacrum and coccyx are not movable.
 18. Click “Next” button to see bones of thoracic cage and its parts and functions.
 19. Click “Next” to see the assessment question with respect to thoracic cage.
 20. Student has to click the right option out of four options given on the screen.  If student attempted the correct option, green colour will be displayed. If student attempted the wrong option, red colour will be displayed.
-21. The “End” button appears and also a “Restart” button appears after the experiment ends.  
-
+21. Back button is available on all the screens to review the concepts.
+22. The “End” button appears and also a “Restart” button appears after the experiment ends.
+  
 ### Pre Test
 1. How many bones are present in an adult human skeleton? <br>
 A. 204<br>
@@ -161,23 +151,13 @@ A. Zygomatic bones<br>
  <b> B. Parietal bones </b><br>
 C. Nasal bones<br>
 D. Palatine bones<br><br>
+
 4. ______ makes up about 2/5th of total height of human being and protects our spinal cord.<br>
 A. Thoracic cage<br>
 B. Skull<br>
 <b> C. Vertebral column </b><br>
 D. None of the above <br><br>
 
-5. Which bones form the posterior part of head?<br>
-A. Frontal bone<br>
-<b> B. Occipital bone </b><br>
-C. Temporal bones<br>
-D. Parietal bone<br><br>
-
-6. The superior part in sternum is<br>
-<b>A. Manubrium </b><br>
-B. Xiphoid process<br>
-C. Body<br>
-D. None of the above. <br><br>
 
 ### References
 1. Tortora G.J,"Principles of Anatomy and Physiology",Wiley & Sons,12th Edition,Page No-198-220
