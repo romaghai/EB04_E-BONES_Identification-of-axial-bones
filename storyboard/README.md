@@ -100,7 +100,7 @@ D. None of the above. <br>
 
 
 ##### 2.5 Allow pitfalls:
-We have designed pitfalls in the form of some assessment questions. In case the student does not attempt the question correctly, red colour displays. There is a back button where the student can go back and clear their concepts.
+We have designed pitfalls in the form of some assessment questions. In case the student does not attempt the question correctly, red colour displays. There is a back button where the student can go back and clear their concepts. 
 
 ##### 2.6 Conclusion:
 If the student goes carefully through the whole experiment and is understanding correctly, then the total time needs to complete the whole experiment should be around 40 minutes. This can be bifurcated in the following sections.
