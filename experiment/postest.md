@@ -1,32 +1,25 @@
 ## Post test
 <br>
-Q 1. What will happen, if the glass plate is replaced with plane mirror?<br>
-<b>a. There will be no interference fringe<br></b>
-b. There will be interference fringe<br>
-c. colored fringes will be observed<br>
-d. None of the options<br><br>
+1. Which bone forms the forehead part of cranial floor?<br>
+<b> A. Frontal bone </b><br>
+B. Temporal bones<br>
+C. Occipital bone<br>
+D. Sphenoid bone <br><br>
 
-Q 2. What will happen, if sodium light is replaced with white light?<br>
-a. There will be no interference fringe<br>
-b. There will be interference fringe<br>
-<b>c. colored fringes will be observed<br></b>
-d. No change in pattern is visible<br>
+2. Which bone is located in the anterior neck between the mandible and larynx?<br>
+A. Palatine bones<br>
+B. Nasal bones<br>
+<b> C. Hyoid bone </b><br>
+D. Lacrimal bones<br><br>
 
-Q 3. What will appear, if in place of lens, a plane glass making some angle with the glass stripe  is used?<br>
-<b>a. Alternate dark and bright fringes in shape of a straight line.<br></b>
-b. triangular interference pattern<br>
-c. colored fringes will be observed<br>
-d. No change in pattern is visible<br>
+3. The cranium comprised of:<br>
+A. Zygomatic bones<br>
+ <b> B. Parietal bones </b><br>
+C. Nasal bones<br>
+D. Palatine bones<br><br>
 
-Q 4. Colours observed in thin film are because of ________________<br>
-a. Diffraction<br>
-<b>b. Interference<br></b>
-c. Polarization<br>
-d. None of the options<br>
-
-Q 5.  In Newton’s rings experiment, rings are formed when the light is ________________ by
-lower surface of the lens and upper surface of the glass plate, interfere.<br>
-a. Reflected<br>
-<b>b. Refracted<br></b>
-c. Transmitted<br>
-d. None<br></b>
+4. ______ makes up about 2/5th of total height of human being and protects our spinal cord.<br>
+A. Thoracic cage<br>
+B. Skull<br>
+<b> C. Vertebral column </b><br>
+D. None of the above <br><br>
