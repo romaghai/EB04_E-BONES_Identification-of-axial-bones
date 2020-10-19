@@ -2,44 +2,44 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
+			"Experiment": "Identification of axial bones",     
+			"Lab": "Human Anatomy & Physiology-I",               
+			"Discipline": "Bachelor of Pharmacy (B.Pharm)",				 
 			"Technology": ""         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+      "Developer": "Dr. Roma Ghai",         
+      "Institute": "KIET School of Pharmacy, KIET Group of Institutions",         
+      "InstituteAcronym": "KIET"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Ms. Sneha Chaudhary",             
+      "Institute": "KIET Group of Institutions, Ghaziabad",               
+			"InstituteAcronym": "KIET"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Mr. Atul Kashyap",              
+      "Institute": "KIET Group of Institutions, Ghaziabad",               
+			"InstituteAcronym": "KIET"         
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Mr. Divyam Arora",             
+      "Institute": "KIET Group of Institutions, Ghaziabad",               
+			"InstituteAcronym": "KIET"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Ms. Anusha Nigam",              
+      "Institute": "KIET Group of Institutions, Ghaziabad",               
+			"InstituteAcronym": "KIET"         
        }
    ]
 
