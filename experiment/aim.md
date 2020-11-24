@@ -1,2 +1,2 @@
 
-Identification of axial skeleton
+Identification of axial bones
