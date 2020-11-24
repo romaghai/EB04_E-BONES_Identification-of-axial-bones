@@ -39,9 +39,9 @@ It is present in the central portion of the skull that articulates with all the 
 Ethmoid Bone <br>
 • The ethmoid bone (like a sieve) is sponge like in appearance and is located on the midline in the anterior part of the cranial floor medial to the orbits. It lies in front of the sphenoid bone and, it lies at the back of the nasal bone.<br>
 • The ethmoid bone forms: <br>
-1. Part of the anterior portion of the cranial floor; <br>
-2. The medial wall of the orbits. <br>
-3. The superior portion of the nasal septum, a partition that divides the nasal cavity into right and left sides. <br><br>
+1 Part of the anterior portion of the cranial floor; <br>
+2 The medial wall of the orbits. <br>
+3 The superior portion of the nasal septum, a partition that divides the nasal cavity into right and left sides. <br><br>
 FACIAL BONES <br>
 The 14 facial bones include: 2 nasal bones, 2 maxillae (or maxillas), 2 zygomatic bones, 1 mandible, 
 2 lacrimal bones, 2 palatine bones, 2 inferior nasal conchae, 1 vomer. <br><br>
