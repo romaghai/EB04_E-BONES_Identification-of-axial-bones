@@ -1,1 +1,1 @@
-#### <!-- Write your institute name here -->
+#### KIET School of Pharmacy, KIET Group of Institutions
