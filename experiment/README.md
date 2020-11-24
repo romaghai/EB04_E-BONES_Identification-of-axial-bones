@@ -74,7 +74,7 @@ Hyoid Bone <br>
 1 coccyx - usually consists of four fused coccygeal vertebrae. <br>
 Note: The cervical, thoracic, and lumbar vertebrae are movable. <br>
 The sacrum and coccyx are not movable.<br><br>
-Thorax <br>
+THORAX <br>
 The chest of human body is called as thorax region and skeletal part is known as thoracic cage.<br>
 •It is formed by bones viz sternum, ribs and their costal cartilages as well as 12 thoracic vertebrae.<br><br>
 Sternum <br>
