@@ -2,7 +2,7 @@
 ### Aim
 Identification of axial skeleton
 ### Theory
-2.1 Requirements: Simulator containing the Images of bones
+2.1 Requirements: Simulator containing the Images of bones<br>
 2.2 Description:
 The human skeleton is composed of 206 bones. These bones are grouped into two categories axial skeleton and appendicular skeleton. The axial skeleton consists of 80 bones and appendicular skeleton consists of 126 bones.
 Axial skeleton: The bones of the axial skeleton contribute to homeostasis by protecting many of the body’s organs such as the brain, spinal cord, heart, and, lungs. They help in support and movement.
@@ -16,15 +16,15 @@ The eight cranial bones are as follows:
 4. Occipital bone=1 
 5. Sphenoid bone =1 
 6. Ethmoid bone=1 <br><br>
-Fourteen facial bones are as follows: 
-1. Nasal bones=2 
-2. Maxillae (or maxillas)=2 
-3. Zygomatic bones=2 
-4. Mandible =1 
-5. Lacrimal bones=2 
-6. Palatine bones=2 
-7. Inferior nasal conchae=2
-8. Vomer=1<br><br>
+Fourteen facial bones are as follows: <br>
+ Nasal bones=2 <br>
+ Maxillae (or maxillas)=2 <br>
+ Zygomatic bones=2 <br>
+ Mandible =1 <br>
+ Lacrimal bones=2 <br>
+ Palatine bones=2 <br>
+ Inferior nasal conchae=2<br>
+ Vomer=1<br><br>
 CRANIAL BONES <br><br>
 Frontal Bone <br>
 Forehead is formed by the frontal bone. Similarly, the frontal bone forms the roofs of orbital sockets.<br> <br>
